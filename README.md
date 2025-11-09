@@ -1,8 +1,8 @@
 # WORKSHOP-4--Gray-scale-Morphology-Real-Time-Bone-Fracture-Detection
 
 
-# Name : T.Roshini
-# Reg No : 212223230175
+# Name : Thirisha A
+# Reg No : 212223040228
 
 # Program :
 
