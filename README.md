@@ -1,15 +1,12 @@
 # WORKSHOP-4--Gray-scale-Morphology-Real-Time-Bone-Fracture-Detection
 
 
-# Name : SANJEEV RAJ.S
-# Reg No : 212223220096
+# Name : T.Roshini
+# Reg No : 212223230175
 
 # Program :
 
 ```
-# WORKSHOP 4 - Gray Scale Morphology - Real-Time Bone Fracture Detection
-# Name : SANJEEV RAJ.S
-# Reg No : 212223220096
 
 import cv2
 import numpy as np
@@ -64,6 +61,4 @@ else:
 ```
 
 # Result :
-
-<img width="1142" height="522" alt="image" src="https://github.com/user-attachments/assets/0af4ac31-050d-46d2-8527-0927ca04f54f" />
-
+<img width="809" height="459" alt="image" src="https://github.com/user-attachments/assets/bd280bae-ecea-48d9-8e3f-73c4ff5cc067" />
